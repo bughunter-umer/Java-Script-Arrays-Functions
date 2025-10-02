@@ -19,6 +19,14 @@ const array = [10 ,23, 45, 67, 7, 9, 0, 12];
 let find = array.findIndex(num => num < 1);
 console.log(find);
 
+const array2 = [10 ,23, 45, 67, 7, 9, 0, 12];
+let find2 = array.findIndex(num => num < 1);
+console.log(find);
+
+const array3 = [10 ,23, 45, 67, 7, 9, 0, 12];
+let find3 = array.findIndex(num => num < 1);
+console.log(find);
+
 
 
 

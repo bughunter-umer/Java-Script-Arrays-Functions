@@ -10,6 +10,21 @@ console.log(array);
 console.log(array.indexOf(23));
 console.log(array.indexOf(53));
 
+const array2 = [10 ,23, 45, 67, 7, 9, 0, 12];
+console.log(array);
+console.log(array.indexOf(23));
+console.log(array.indexOf(53));
+
+const array3 = [10 ,23, 45, 67, 7, 9, 0, 12];
+console.log(array);
+console.log(array.indexOf(23));
+console.log(array.indexOf(53));
+
+const array4 = [10 ,23, 45, 67, 7, 9, 0, 12];
+console.log(array);
+console.log(array.indexOf(23));
+console.log(array.indexOf(53));
+
 
 
 
